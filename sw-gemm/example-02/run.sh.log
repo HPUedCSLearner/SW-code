@@ -1,0 +1,135 @@
+Job <5493230> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+M	 K	 N	 SLEF_FLOPS	 REF_FLOPS	 SPEED_UP
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+block_m:50 block_n:50 row_start:0 col_start:0
+block_m:50 block_n:50 row_start:0 col_start:50
+block_m:50 block_n:50 row_start:0 col_start:100
+block_m:50 block_n:50 row_start:0 col_start:150
+block_m:50 block_n:50 row_start:0 col_start:200
+block_m:50 block_n:50 row_start:0 col_start:250
+block_m:50 block_n:50 row_start:0 col_start:300
+block_m:50 block_n:50 row_start:0 col_start:350
+block_m:50 block_n:50 row_start:50 col_start:0
+block_m:50 block_n:50 row_start:50 col_start:50
+block_m:50 block_n:50 row_start:50 col_start:100
+block_m:50 block_n:50 row_start:50 col_start:150
+block_m:50 block_n:50 row_start:50 col_start:200
+block_m:50 block_n:50 row_start:50 col_start:250
+block_m:50 block_n:50 row_start:50 col_start:300
+block_m:50 block_n:50 row_start:50 col_start:350
+block_m:50 block_n:50 row_start:100 col_start:0
+block_m:50 block_n:50 row_start:100 col_start:50
+block_m:50 block_n:50 row_start:100 col_start:100
+block_m:50 block_n:50 row_start:100 col_start:150
+block_m:50 block_n:50 row_start:100 col_start:200
+block_m:50 block_n:50 row_start:100 col_start:250
+block_m:50 block_n:50 row_start:100 col_start:300
+block_m:50 block_n:50 row_start:100 col_start:350
+block_m:50 block_n:50 row_start:150 col_start:0
+block_m:50 block_n:50 row_start:150 col_start:50
+block_m:50 block_n:50 row_start:150 col_start:100
+block_m:50 block_n:50 row_start:150 col_start:150
+block_m:50 block_n:50 row_start:150 col_start:200
+block_m:50 block_n:50 row_start:150 col_start:250
+block_m:50 block_n:50 row_start:150 col_start:300
+block_m:50 block_n:50 row_start:150 col_start:350
+block_m:50 block_n:50 row_start:200 col_start:0
+block_m:50 block_n:50 row_start:200 col_start:50
+block_m:50 block_n:50 row_start:200 col_start:100
+block_m:50 block_n:50 row_start:200 col_start:150
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+args:400 400 400
+block_m:50 block_n:50 row_start:200 col_start:200
+block_m:50 block_n:50 row_start:200 col_start:250
+block_m:50 block_n:50 row_start:200 col_start:300
+block_m:50 block_n:50 row_start:200 col_start:350
+block_m:50 block_n:50 row_start:250 col_start:0
+block_m:50 block_n:50 row_start:250 col_start:50
+block_m:50 block_n:50 row_start:250 col_start:100
+block_m:50 block_n:50 row_start:250 col_start:150
+block_m:50 block_n:50 row_start:250 col_start:200
+block_m:50 block_n:50 row_start:250 col_start:250
+block_m:50 block_n:50 row_start:250 col_start:300
+block_m:50 block_n:50 row_start:250 col_start:350
+block_m:50 block_n:50 row_start:300 col_start:0
+block_m:50 block_n:50 row_start:300 col_start:50
+block_m:50 block_n:50 row_start:300 col_start:100
+block_m:50 block_n:50 row_start:300 col_start:150
+block_m:50 block_n:50 row_start:300 col_start:200
+block_m:50 block_n:50 row_start:300 col_start:250
+block_m:50 block_n:50 row_start:300 col_start:300
+block_m:50 block_n:50 row_start:300 col_start:350
+block_m:50 block_n:50 row_start:350 col_start:0
+block_m:50 block_n:50 row_start:350 col_start:50
+block_m:50 block_n:50 row_start:350 col_start:100
+block_m:50 block_n:50 row_start:350 col_start:150
+block_m:50 block_n:50 row_start:350 col_start:200
+block_m:50 block_n:50 row_start:350 col_start:250
+block_m:50 block_n:50 row_start:350 col_start:300
+block_m:50 block_n:50 row_start:350 col_start:350
+[5493230 ## 2023-07-05/10:43:38] receive request of kill job(Crtl`C).
+dispatching ...
+Job <5493230> is being terminated
+Job 5493230 has been finished, exit reason: CTRL~C.
